@@ -1,0 +1,33 @@
+  const watches =  [    {        brand: "Apple",        model: "Apple Watch Series 8",        features: ["Heart Rate Monitor", "ECG", "GPS", "Sleep Tracking"],
+    batteryLife: "18 hours",
+    waterResistance: "50m"
+},
+{
+    brand: "Samsung",
+    model: "Galaxy Watch 5",
+    features: ["Body Composition", "GPS", "Sleep Tracking", "Blood Oxygen Monitoring"],
+    batteryLife: "40 hours",
+    waterResistance: "50m"
+},
+{
+    brand: "Garmin",
+    model: "Forerunner 255",
+    features: ["GPS", "Heart Rate Monitor", "Multisport Tracking", "Smart Notifications"],
+    batteryLife: "14 days",
+    waterResistance: "50m"
+},
+{
+    brand: "Fitbit",
+    model: "Versa 3",
+    features: ["Heart Rate Monitor", "Built-in GPS", "Sleep Tracking", "Voice Assistant"],
+    batteryLife: "6 days",
+    waterResistance: "50m"
+},
+{
+    brand: "Fossil",
+    model: "Gen 6",
+    features: ["Heart Rate Monitor", "GPS", "NFC Payment", "Music Control"],
+    batteryLife: "24 hours",
+    waterResistance: "30m"
+}
+ ]
